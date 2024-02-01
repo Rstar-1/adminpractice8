@@ -228,7 +228,7 @@ const Dashboard = () => {
           </div>
         </div>
         <div className="w-40">
-          <h3 className="fsize17 font-400 bgwhite p2 d-shadow rounded-5 plpx5 textforth mtpx1 mbpx1">
+          <h3 className="fsize17 font-400 bgwhite p2 d-shadow rounded-5 plpx8 textforth mtpx1 mbpx1">
             Progress
           </h3>
           <div className="grid grid-cols-3 gap-7 mtpx8">
@@ -303,7 +303,7 @@ const Dashboard = () => {
               </div>
             </div>
           </div>
-          <h3 className="fsize17 font-400 bgwhite p2 d-shadow rounded-5 plpx5 textforth mtpx8 mbpx1">
+          <h3 className="fsize17 font-400 bgwhite p2 d-shadow rounded-5 plpx8 textforth mtpx8 mbpx1">
             Shorcuts
           </h3>
           <div className="grid grid-cols-3 gap-7 mtpx8">
